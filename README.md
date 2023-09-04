@@ -6,7 +6,11 @@ MiniATM is a console-based application that allows users to simulate common ATM 
 
 ## Features
 User Authentication: Secure login based on passwords.
+
 Deposit: Add funds to your account.
+
 Withdraw: Withdraw money while taking bank denominations into account.
+
 Balance Check: View your current account balance.
+
 Denomination Management: Ensures money is dispensed based on available denominations.
