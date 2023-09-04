@@ -1,0 +1,4 @@
+1234:JohnDoe:523.0
+5678:JaneSmith:750.0
+9012:AliceBrown:250.0
+3456:BobWhite:1200.0
